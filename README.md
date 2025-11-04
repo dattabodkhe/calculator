@@ -27,10 +27,9 @@ Clean UI, smooth animations, and accurate calculations — perfect for daily use
 ---
 
 ## 📸 Screenshots
+![Calculator App Screenshot](screenshots/A_set_of_three_digital_screenshots_displays_a_Calc.png)
 
-| Home Screen | Light Mode | Dark Mode |
-|--------------|-------------|-----------|
-| ![Home](screenshots/home.png) | ![Light](screenshots/light.png) | ![Dark](screenshots/dark.png) |
+
 
 > (Add your screenshots in the `screenshots/` folder inside project)
 
