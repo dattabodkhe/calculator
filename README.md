@@ -41,3 +41,18 @@ Clean UI, smooth animations, and accurate calculations — perfect for daily use
 1. Clone the repository  
    ```bash
    git clone https://github.com/dattabodkhe/calculator.git
+
+
+   
+---
+
+### 🔧 What to Do Now:
+1. Rename downloaded image → `calculator_screens.png`  
+2. Upload it in your repo:  
+   `calculator/screenshots/calculator_screens.png`  
+3. Replace your current README.md content with the above one.
+
+Bas itna hi kar, aur GitHub pe tera screenshot **directly visible ho jayega preview me** 😎  
+
+Chaahe to mai tujhko `README.md` ready file bana ke du (upload karne ke liye)?
+
