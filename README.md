@@ -1,3 +1,5 @@
+
+
 # 🧮 Calculator App
 
 A simple and modern **Android Calculator App** built using **Kotlin + MVVM Architecture**.  
@@ -11,7 +13,7 @@ Clean UI, smooth animations, and accurate calculations — perfect for daily use
 ✅ Real-time result preview while typing  
 ✅ Expression validation & error handling  
 ✅ Built with **ViewModel + LiveData**  
-✅ Fully responsive modern UI built in **XML / Jetpack Compose (as applicable)**  
+✅ Fully responsive modern UI built in **Jetpack Compose**  
 ✅ Lightweight & fast performance  
 
 ---
@@ -20,18 +22,17 @@ Clean UI, smooth animations, and accurate calculations — perfect for daily use
 
 - **Language:** Kotlin  
 - **Architecture:** MVVM  
-- **UI:** Android XML (or Jetpack Compose)  
+- **UI:** Jetpack Compose  
 - **Tools:** Android Studio, Gradle  
 - **Version Control:** Git & GitHub  
 
 ---
 
 ## 📸 Screenshots
-![Calculator App Screenshot](screenshots/A_set_of_three_digital_screenshots_displays_a_Calc.png)
 
+![Calculator App Screenshot](https://github.com/dattabodkhe/calculator/blob/main/screenshots/calculator_screens.png)
 
-
-> (Add your screenshots in the `screenshots/` folder inside project)
+> (Screenshot file name should be `calculator_screens.png` inside the `screenshots/` folder)
 
 ---
 
