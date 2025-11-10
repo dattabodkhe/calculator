@@ -30,7 +30,7 @@ Clean UI, smooth animations, and accurate calculations — perfect for daily use
 
 ## 📸 Screenshots
 
-![Calculator App Screenshot](https://github.com/dattabodkhe/calculator/blob/main/screenshots/calculator_screens.png)
+![Calculator App Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fappleinsider.com%2Finside%2Fiphone%2Ftips%2Fhow-to-make-the-most-of-the-ios-calculator&psig=AOvVaw0eoHstylrB77bDfgJksITm&ust=1762874639955000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDMiYjy55ADFQAAAAAdAAAAABAb)
 
 > (Screenshot file name should be `calculator_screens.png` inside the `screenshots/` folder)
 
